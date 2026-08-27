@@ -2,6 +2,8 @@
 
 Junior Backend Developer con visione full stack e focus su **Java, Spring Boot, MySQL, Angular e TypeScript**.
 
+Continuo il percorso post-corso con il **Metodo CARAC** — Comprendi, Applica, Ricostruisci, Autonomizza, Consolida — basato su richiamo attivo, esercizi autonomi e applicazione nei progetti reali.
+
 ## Curriculum
 
 [Visualizza o scarica il CV in PDF](./Fabio_Zagaria_CV.pdf)
