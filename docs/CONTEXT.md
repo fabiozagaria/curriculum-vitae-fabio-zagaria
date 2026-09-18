@@ -1,9 +1,14 @@
 # Contesto tecnico — Curriculum Vitae
 
-Aggiornato: 2026-09-08
+Aggiornato: 2026-09-18
 
 ## Ruolo del repository
 Punto di distribuzione pubblico del PDF del curriculum di Fabio Zagaria.
+
+## Formato pubblico
+- Viene pubblicato un unico PDF a colonna singola, testuale, leggibile e compatibile con i sistemi ATS.
+- Le copie modificabili o preparate specificamente per il colloquio restano fuori dal repository pubblico.
+- Il file pubblico è `Fabio_Zagaria_CV.pdf`.
 
 ## Sorgente autorevole
 Il contenuto del CV viene generato da `portfolio-angular/scripts/generate_cv.py` nel repository `fabio-zagaria-portfolio`.
