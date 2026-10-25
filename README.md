@@ -26,3 +26,7 @@ Il flusso di aggiornamento è:
 - [Portfolio](https://fabio-zagaria-portfolio.vercel.app/)
 - [GitHub](https://github.com/fabiozagaria)
 - [LinkedIn](https://www.linkedin.com/in/fabiozagaria)
+
+## Aggiornamento del 25 ottobre 2026
+
+CV a pagina singola con Expense Tracker (CRUD spese/entrate, ricerca, filtri, paginazione e verifica email Brevo HTTPS), AccessDesk in sviluppo (JWT, filtro personalizzato, autorizzazioni Spring Security) e PostgreSQL come studio autodidatta alternativo a MySQL.

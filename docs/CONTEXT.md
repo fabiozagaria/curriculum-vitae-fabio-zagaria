@@ -1,6 +1,6 @@
 # Contesto tecnico — Curriculum Vitae
 
-Aggiornato: 2026-09-18
+Aggiornato: 2026-10-25
 
 ## Ruolo del repository
 Punto di distribuzione pubblico del PDF del curriculum di Fabio Zagaria.
@@ -21,3 +21,6 @@ Il contenuto del CV viene generato da `portfolio-angular/scripts/generate_cv.py`
 
 ## Punto di ripresa
 Non esiste sviluppo applicativo in questo repository. Le modifiche riguardano solo sincronizzazione e distribuzione del curriculum.
+
+## Contenuto corrente
+Expense Tracker: scope funzionale attuale concluso, ampliamenti integrati su master; collaudo del deploy e regressioni distinti dal completamento funzionale. AccessDesk: progetto autonomo in sviluppo con JWT, filtro personalizzato, autorizzazioni e PostgreSQL. PostgreSQL: studio autodidatta come alternativa a MySQL.
