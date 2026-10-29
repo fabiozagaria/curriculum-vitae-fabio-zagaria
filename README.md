@@ -1,25 +1,23 @@
 # Fabio Zagaria — Curriculum Vitae
 
-Junior Backend Developer con visione full stack e focus su **Java, Spring Boot, MySQL, Angular e TypeScript**.
+**Junior Java Backend Developer** con visione full stack e focus su Java, Spring Boot, API REST, MySQL, Angular e TypeScript.
 
 ## Curriculum
 
 [Visualizza o scarica il CV pubblico in PDF](./Fabio_Zagaria_CV.pdf)
 
-Il repository distribuisce un unico documento a colonna singola, testuale e compatibile con i sistemi ATS. Lo stesso file rimane leggibile anche per la consultazione umana, evitando versioni pubbliche divergenti.
+Il repository distribuisce un unico documento Career Ops, a colonna singola, testuale e compatibile con i sistemi ATS. Il PDF è la stessa versione verificata e distribuita dal portfolio.
 
 ## Sorgente autorevole
 
-La sorgente del curriculum è il generatore
-[`portfolio-angular/scripts/generate_cv.py`](https://github.com/fabiozagaria/fabio-zagaria-portfolio/blob/master/portfolio-angular/scripts/generate_cv.py)
-nel repository del portfolio.
+I contenuti sono mantenuti nel payload [`cv-career-ops.json`](https://github.com/fabiozagaria/fabio-zagaria-portfolio/blob/master/portfolio-angular/scripts/cv-career-ops.json) del repository portfolio. Il PDF viene generato con il template Career Ops e con il flusso ufficiale documentato in [`AGENTS.md`](https://github.com/fabiozagaria/fabio-zagaria-portfolio/blob/master/AGENTS.md).
 
-Il flusso di aggiornamento è:
+Flusso di aggiornamento:
 
-1. modificare il generatore nel repository del portfolio;
-2. rigenerare e verificare il PDF;
-3. sincronizzare qui lo stesso documento;
-4. controllare coerenza con portfolio e profili professionali.
+1. aggiornare il payload Career Ops nel repository portfolio;
+2. generare e verificare il PDF A4 a una pagina con Career Ops;
+3. sostituire il PDF sorgente del portfolio e sincronizzare qui lo stesso file;
+4. verificare che portfolio e repository dedicato distribuiscano PDF identici.
 
 ## Profili professionali
 
@@ -27,6 +25,6 @@ Il flusso di aggiornamento è:
 - [GitHub](https://github.com/fabiozagaria)
 - [LinkedIn](https://www.linkedin.com/in/fabiozagaria)
 
-## Aggiornamento del 25 ottobre 2026
+## Aggiornamento del 29 ottobre 2026
 
-CV a pagina singola con Expense Tracker (CRUD spese/entrate, ricerca, filtri, paginazione e verifica email Brevo HTTPS), AccessDesk in sviluppo (JWT, filtro personalizzato, autorizzazioni Spring Security) e PostgreSQL come studio autodidatta alternativo a MySQL.
+Il CV presenta Expense Tracker e AccessDesk, formazione ed esperienza professionale, competenze backend e dati (inclusi Redis e Docker), frontend e sviluppo assistito da strumenti AI. I livelli linguistici restano italiano madrelingua e inglese B2 in comprensione, B1 in produzione e interazione.

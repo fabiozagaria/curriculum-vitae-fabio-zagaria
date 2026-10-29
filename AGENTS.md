@@ -1,19 +1,21 @@
 # Istruzioni per assistenti AI
 
 ## Scopo
-Questo repository distribuisce il Curriculum Vitae di Fabio Zagaria in PDF. Non è la sorgente primaria del contenuto del CV.
+Questo repository distribuisce il Curriculum Vitae di Fabio Zagaria in PDF. La sorgente primaria e il processo di generazione risiedono nel repository portfolio.
 
 ## Regole operative
 - Non modificare manualmente il PDF come fonte autorevole.
-- La sorgente del CV è `portfolio-angular/scripts/generate_cv.py` nel repository `fabio-zagaria-portfolio`.
-- Per aggiornare il curriculum: modificare il generatore, rigenerare/verificare il PDF e poi sincronizzarlo qui.
+- La sorgente dei contenuti è `portfolio-angular/scripts/cv-career-ops.json` nel repository `fabio-zagaria-portfolio`.
+- Generare il PDF esclusivamente con Career Ops, seguendo le istruzioni Career Ops in `AGENTS.md` del repository portfolio.
+- Non usare il generatore Python legacy `portfolio-angular/scripts/generate_cv.py`.
+- Dopo la verifica locale, sincronizzare qui lo stesso PDF generato e confrontare i checksum.
 - Mantenere README, PDF e portfolio coerenti.
 - Non inventare competenze, esperienze, date o risultati professionali.
 
 ## Fonti di verità
-- Il generatore nel portfolio è la sorgente autorevole del curriculum.
-- Questo repository è il punto di distribuzione del PDF.
-- `docs/CONTEXT.md` riassume il flusso di manutenzione.
+- Payload Career Ops e fonti verificate nel repository portfolio: contenuto autorevole.
+- PDF in questo repository: copia di distribuzione.
+- `docs/CONTEXT.md`: flusso locale di manutenzione.
 
 ## Privacy
 Inserire soltanto dati personali destinati esplicitamente al CV pubblico; evitare informazioni private non necessarie.

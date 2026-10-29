@@ -1,26 +1,25 @@
 # Contesto tecnico — Curriculum Vitae
 
-Aggiornato: 2026-10-25
+Aggiornato: 2026-10-29
 
 ## Ruolo del repository
-Punto di distribuzione pubblico del PDF del curriculum di Fabio Zagaria.
+Punto di distribuzione pubblico del PDF del curriculum di Fabio Zagaria; non è la sorgente primaria del contenuto.
 
 ## Formato pubblico
-- Viene pubblicato un unico PDF a colonna singola, testuale, leggibile e compatibile con i sistemi ATS.
-- Le copie modificabili o preparate specificamente per il colloquio restano fuori dal repository pubblico.
+- Un unico PDF A4 a una pagina, a colonna singola, con testo selezionabile e link cliccabili.
+- Il layout è il template Career Ops mantenuto nel flusso ufficiale.
 - Il file pubblico è `Fabio_Zagaria_CV.pdf`.
 
 ## Sorgente autorevole
-Il contenuto del CV viene generato da `portfolio-angular/scripts/generate_cv.py` nel repository `fabio-zagaria-portfolio`.
+I contenuti risiedono in `portfolio-angular/scripts/cv-career-ops.json` nel repository `fabio-zagaria-portfolio`. Il PDF viene prodotto con gli script ufficiali Career Ops usando il template nativo e l’estensione locale `portfolio-angular/scripts/cv-career-ops-template.html`, che aggiunge un QR cliccabile al portfolio. Seguire le istruzioni Career Ops del file `AGENTS.md` nel repository portfolio. Il vecchio generatore Python non è più il flusso autorevole.
 
-## Flusso corretto di aggiornamento
-1. aggiornare il generatore nel portfolio;
-2. rigenerare e verificare il PDF;
-3. sincronizzare qui lo stesso documento;
-4. controllare coerenza con README, portfolio e profili professionali.
-
-## Punto di ripresa
-Non esiste sviluppo applicativo in questo repository. Le modifiche riguardano solo sincronizzazione e distribuzione del curriculum.
+## Flusso di aggiornamento
+1. aggiornare il payload Career Ops nel repository portfolio;
+2. generare HTML e PDF con il template CV risolto da Career Ops, formato A4 e vincolo di una pagina;
+3. verificare struttura ATS, fatti, testo estratto, link e rendering visivo;
+4. sostituire `portfolio-angular/src/assets/documents/CV.pdf` e verificare le copie prodotte dalla build;
+5. sincronizzare qui lo stesso PDF e confrontare checksum;
+6. controllare coerenza con README, portfolio e profili professionali.
 
 ## Contenuto corrente
-Expense Tracker: scope funzionale attuale concluso, ampliamenti integrati su master; collaudo del deploy e regressioni distinti dal completamento funzionale. AccessDesk: progetto autonomo in sviluppo con JWT, filtro personalizzato, autorizzazioni e PostgreSQL. PostgreSQL: studio autodidatta come alternativa a MySQL.
+Expense Tracker e AccessDesk sono i progetti in evidenza. Il profilo include Redis per caching, Docker per containerizzazione e ambienti di sviluppo, oltre a familiarità pratica con strumenti AI per sviluppo assistito. PostgreSQL resta studio autonomo applicato in AccessDesk. Esperienza, formazione e livelli linguistici devono restare coerenti con il payload Career Ops.
