@@ -1,6 +1,6 @@
 # Contesto tecnico — Curriculum Vitae
 
-Aggiornato: 2026-10-29
+Aggiornato: 2026-11-16
 
 ## Ruolo del repository
 Punto di distribuzione pubblico del PDF del curriculum di Fabio Zagaria; non è la sorgente primaria del contenuto.
@@ -22,4 +22,4 @@ I contenuti risiedono in `portfolio-angular/scripts/cv-career-ops.json` nel repo
 6. controllare coerenza con README, portfolio e profili professionali.
 
 ## Contenuto corrente
-Expense Tracker e AccessDesk sono i progetti in evidenza. Il profilo include Redis per caching, Docker per containerizzazione e ambienti di sviluppo, oltre a familiarità pratica con strumenti AI per sviluppo assistito. PostgreSQL resta studio autonomo applicato in AccessDesk. Esperienza, formazione e livelli linguistici devono restare coerenti con il payload Career Ops.
+Expense Tracker e AccessDesk sono i progetti in evidenza. Il profilo include Redis per caching, Docker per containerizzazione e ambienti di sviluppo, test con JUnit, Mockito e test di integrazione Spring Boot, e sviluppo assistito da AI con Claude Code come strumento principale (plugin e skill anche sviluppati in proprio), MCP, ChatGPT e Codex. PostgreSQL resta studio autonomo applicato in AccessDesk; prossimo approfondimento: C++. Il Master PC Academy è riportato come Nov 2019 - Mag 2020 (attestato di frequenza). Esperienza, formazione e livelli linguistici devono restare coerenti con il payload Career Ops.

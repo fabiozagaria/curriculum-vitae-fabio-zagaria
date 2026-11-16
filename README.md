@@ -25,6 +25,6 @@ Flusso di aggiornamento:
 - [GitHub](https://github.com/fabiozagaria)
 - [LinkedIn](https://www.linkedin.com/in/fabiozagaria)
 
-## Aggiornamento del 29 ottobre 2026
+## Aggiornamento del 16 novembre 2026
 
-Il CV presenta Expense Tracker e AccessDesk, formazione ed esperienza professionale, competenze backend e dati (inclusi Redis e Docker), frontend e sviluppo assistito da strumenti AI. I livelli linguistici restano italiano madrelingua e inglese B2 in comprensione, B1 in produzione e interazione.
+Il CV presenta Expense Tracker e AccessDesk, formazione ed esperienza professionale, competenze backend e dati (inclusi Redis e Docker), frontend, test (JUnit, Mockito, test di integrazione con Spring Boot) e sviluppo assistito da strumenti AI, con Claude Code come strumento principale. Il Master in aula di Programmazione Java & Android (P.C. Academy) è indicato come Nov 2019 - Mag 2020, con attestato di frequenza. I livelli linguistici restano italiano madrelingua e inglese B2 in comprensione, B1 in produzione e interazione.
