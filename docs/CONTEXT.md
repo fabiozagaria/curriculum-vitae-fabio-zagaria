@@ -1,6 +1,6 @@
 # Contesto tecnico — Curriculum Vitae
 
-Aggiornato: 2026-11-16
+Aggiornato: 2026-11-21
 
 ## Ruolo del repository
 Punto di distribuzione pubblico del PDF del curriculum di Fabio Zagaria; non è la sorgente primaria del contenuto.
@@ -19,7 +19,11 @@ I contenuti risiedono in `portfolio-angular/scripts/cv-career-ops.json` nel repo
 3. verificare struttura ATS, fatti, testo estratto, link e rendering visivo;
 4. sostituire `portfolio-angular/src/assets/documents/CV.pdf` e verificare le copie prodotte dalla build;
 5. sincronizzare qui lo stesso PDF e confrontare checksum;
-6. controllare coerenza con README, portfolio e profili professionali.
+6. controllare coerenza con README, portfolio e profili professionali;
+7. archiviare la versione (`scripts/archivia-cv.sh`), aggiornare il CHANGELOG e creare il tag `cv-AAAA-MM-GG`; nel portfolio eseguire `npm run cv:meta -- AAAA-MM-GG` con la stessa data.
+
+## Archivio e versioni
+`archive/` contiene ogni versione del PDF (`CV_AAAA-MM-GG_<sha8>.pdf`, immutabili; 12 versioni ricostruite dalla cronologia git il 21 novembre 2026). `CHANGELOG.md` le elenca. Tag `cv-AAAA-MM-GG` sul commit che introduce la versione (`scripts/crea-tag-cv.sh` per quelli storici: dall'ambiente cloud i tag non si possono pubblicare). La data di versione è quella dei contenuti, non del commit.
 
 ## Contenuto corrente
-Expense Tracker e AccessDesk sono i progetti in evidenza. Il profilo include Redis per caching, Docker per containerizzazione e ambienti di sviluppo, test con JUnit, Mockito e test di integrazione Spring Boot, e sviluppo assistito da AI con Claude Code come strumento principale (plugin e skill anche sviluppati in proprio), MCP, ChatGPT e Codex. PostgreSQL resta studio autonomo applicato in AccessDesk; prossimo approfondimento: C++. Il Master PC Academy è riportato come Nov 2019 - Mag 2020 (attestato di frequenza). Esperienza, formazione e livelli linguistici devono restare coerenti con il payload Career Ops.
+Expense Tracker e AccessDesk sono i progetti in evidenza. Il profilo include Redis per caching, Docker per containerizzazione e ambienti di sviluppo, test con JUnit, Mockito e test di integrazione Spring Boot, e sviluppo assistito da AI con Claude Code come strumento principale (plugin e skill anche sviluppati in proprio), MCP, ChatGPT e Codex. Il PDF corrente (5 novembre 2026) cita ancora MySQL: il payload del portfolio è già aggiornato a PostgreSQL, Flyway, Testcontainers e GitHub Actions e il PDF va rigenerato con Career Ops. PostgreSQL resta studio autonomo applicato in AccessDesk; prossimo approfondimento: C++. Il Master PC Academy è riportato come Nov 2019 - Mag 2020 (attestato di frequenza). Esperienza, formazione e livelli linguistici devono restare coerenti con il payload Career Ops.

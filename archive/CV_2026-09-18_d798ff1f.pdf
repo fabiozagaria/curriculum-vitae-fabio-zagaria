@@ -1,0 +1,149 @@
+%PDF-1.4
+%ASCII
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 8 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding >>
+endobj
+8 0 obj
+<< /Length 5894 >>
+stream
+0.080 0.100 0.130 rg
+BT /F2 21.00 Tf 229.37 799.89 Td (Fabio Zagaria) Tj ET
+0.075 0.266 0.459 rg
+BT /F2 11.60 Tf 162.57 778.89 Td (Junior Backend Developer | Full Stack Developer) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 8.80 Tf 171.97 764.89 Td (Roma | +39 366 719 1008 | fabiozagaria@proton.me | Patente B) Tj ET
+0.075 0.266 0.459 rg
+BT /F1 7.90 Tf 143.01 752.89 Td (fabio-zagaria-portfolio.vercel.app | github.com/fabiozagaria | linkedin.com/in/fabiozagaria) Tj ET
+0.075 0.266 0.459 rg
+BT /F2 11.70 Tf 44.00 733.89 Td (PROFILO PROFESSIONALE) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 10.20 Tf 44.00 717.39 Td (Junior Backend Developer con formazione Full Stack Web di 650 ore, orientato a Java e Spring Boot. Sviluppo) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 10.20 Tf 44.00 705.19 Td (API REST e applicazioni full stack con MySQL, JPA/Hibernate, Angular e TypeScript, con attenzione a) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 10.20 Tf 44.00 692.99 Td (validazione, sicurezza, gestione degli errori e separazione dei layer. Porto inoltre oltre cinque anni di esperienza) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 10.20 Tf 44.00 680.79 Td (operativa al Policlinico Gemelli, in un contesto con priorit\340 variabili e lavoro sotto pressione.) Tj ET
+0.075 0.266 0.459 rg
+BT /F2 11.70 Tf 44.00 666.59 Td (COMPETENZE TECNICHE) Tj ET
+0.080 0.100 0.130 rg
+BT /F2 9.90 Tf 44.00 650.09 Td (Backend:) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.90 Tf 88.56 650.09 Td ( Java 21, Spring Boot, Spring MVC, Spring Security, API REST, Maven) Tj ET
+0.080 0.100 0.130 rg
+BT /F2 9.90 Tf 44.00 638.09 Td (Database:) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.90 Tf 91.31 638.09 Td ( MySQL, JPA/Hibernate, Spring Data JPA, EntityManager, transazioni) Tj ET
+0.080 0.100 0.130 rg
+BT /F2 9.90 Tf 44.00 626.09 Td (Frontend:) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.90 Tf 90.19 626.09 Td ( TypeScript, JavaScript, Angular 21, Signals, Reactive Forms, HTML5, CSS3) Tj ET
+0.080 0.100 0.130 rg
+BT /F2 9.90 Tf 44.00 614.09 Td (Pratiche e strumenti:) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.90 Tf 142.48 614.09 Td ( Git, GitHub, Postman, DTO, Bean Validation, exception handling, architettura a layer) Tj ET
+0.075 0.266 0.459 rg
+BT /F2 11.70 Tf 44.00 600.09 Td (PROGETTI) Tj ET
+0.075 0.266 0.459 rg
+BT /F2 9.95 Tf 44.00 583.59 Td (Expense Tracker - Gestionale Spese) Tj ET
+0.340 0.380 0.420 rg
+BT /F3 9.95 Tf 215.44 583.59 Td ( | Java 21, Spring Boot, Angular 21, MySQL, JPA/Hibernate) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.75 Tf 46.00 572.59 Td (- Applicazione full stack per gestire spese personali, con frontend Angular collegato alle API Spring Boot tramite) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.75 Tf 46.00 560.89 Td (  HttpClient.) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.75 Tf 46.00 548.49 Td (- Backend REST con DTO, Bean Validation, gestione centralizzata degli errori, persistenza JPA e controllo di) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.75 Tf 46.00 536.79 Td (  ownership; autenticazione con JWT, refresh token e verifica email.) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.75 Tf 46.00 524.39 Td (- Frontend con Signals, Reactive Forms, validazioni personalizzate e sincronizzazione dello stato dopo le risposte) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.75 Tf 46.00 512.69 Td (  HTTP.) Tj ET
+0.075 0.266 0.459 rg
+BT /F2 9.95 Tf 44.00 500.29 Td (Task Manager API - Security Lab) Tj ET
+0.340 0.380 0.420 rg
+BT /F3 9.95 Tf 198.27 500.29 Td ( | Java 21, Spring Boot, Spring Security, JPA/Hibernate, MySQL) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.75 Tf 46.00 489.29 Td (- CRUD di task per utente autenticato, controllo di ownership, password BCrypt e configurazione con) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.75 Tf 46.00 477.59 Td (  CustomUserDetailsService, DaoAuthenticationProvider e AuthenticationManager.) Tj ET
+0.075 0.266 0.459 rg
+BT /F2 11.70 Tf 44.00 464.19 Td (FORMAZIONE IT) Tj ET
+0.075 0.266 0.459 rg
+BT /F2 9.95 Tf 44.00 447.69 Td (Developer Full Stack Web - LabForWeb) Tj ET
+0.340 0.380 0.420 rg
+BT /F3 9.95 Tf 229.22 447.69 Td ( | Gen 2026 - Ago 2026 | 650 ore | completato) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.70 Tf 44.00 436.69 Td (HTML, CSS, JavaScript, TypeScript, Angular, MySQL, Java, Java EE/Jakarta EE, Spring, Spring Boot e Git. Percorso) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.70 Tf 44.00 425.09 Td (pratico su CRUD, API REST, SPA, database e sicurezza applicativa.) Tj ET
+0.075 0.266 0.459 rg
+BT /F2 9.95 Tf 44.00 411.49 Td (Master Java - PC Academy) Tj ET
+0.340 0.380 0.420 rg
+BT /F3 9.95 Tf 170.63 411.49 Td ( | Set 2019 - Apr 2020 | 300 ore) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.70 Tf 44.00 400.49 Td (Java 8, OOP, REST, SQL, Android, Clean Code e principi di architettura software.) Tj ET
+0.075 0.266 0.459 rg
+BT /F2 11.70 Tf 44.00 386.89 Td (ESPERIENZA PROFESSIONALE) Tj ET
+0.075 0.266 0.459 rg
+BT /F2 9.95 Tf 44.00 370.39 Td (Portantino - Eraclya, Policlinico Gemelli) Tj ET
+0.340 0.380 0.420 rg
+BT /F3 9.95 Tf 232.02 370.39 Td ( | Roma | Giu 2021 - in corso) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.75 Tf 46.00 359.39 Td (- Trasporto pazienti e supporto operativo nel rispetto di procedure, urgenze e priorit\340 variabili; coordinamento) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.75 Tf 46.00 347.69 Td (  quotidiano con personale sanitario, tecnico e amministrativo.) Tj ET
+0.075 0.266 0.459 rg
+BT /F2 11.70 Tf 44.00 334.29 Td (ISTRUZIONE E LINGUE) Tj ET
+0.080 0.100 0.130 rg
+BT /F2 9.90 Tf 44.00 317.79 Td (Diploma:) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.90 Tf 86.35 317.79 Td ( Informatica e Telecomunicazioni - ITIS A. Einstein | 2018 | 75/100 | Telecomunicazioni) Tj ET
+0.080 0.100 0.130 rg
+BT /F2 9.90 Tf 44.00 305.79 Td (Lingue:) Tj ET
+0.080 0.100 0.130 rg
+BT /F1 9.90 Tf 79.75 305.79 Td ( Italiano madrelingua | Inglese: comprensione B2, produzione e interazione B1) Tj ET
+0.340 0.380 0.420 rg
+BT /F1 6.40 Tf 44.00 292.79 Td (Autorizzo il trattamento dei dati personali presenti nel CV ai sensi del Regolamento UE 2016/679 \(GDPR\) e della normativa italiana vigente.) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Title (CV Fabio Zagaria - Junior Backend Developer) /Author (Fabio Zagaria) /Subject (Curriculum Vitae) /Keywords (Java, Spring Boot, Angular, MySQL, Junior Backend Developer) >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000016 00000 n 
+0000000065 00000 n 
+0000000122 00000 n 
+0000000285 00000 n 
+0000000382 00000 n 
+0000000484 00000 n 
+0000000589 00000 n 
+0000000698 00000 n 
+0000006643 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R /Info 9 0 R >>
+startxref
+6841
+%%EOF
+~º&¥«a–&âšš+´ö­
