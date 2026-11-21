@@ -2,6 +2,9 @@
 
 Aggiornato: 2026-11-21
 
+## Prossimo passo urgente
+Rigenerare il CV con Career Ops sul PC di Fabio e archiviarlo qui (`scripts/archivia-cv.sh`): il PDF corrente è del 5 novembre 2026. Dopo ogni modifica importante del portfolio l'assistente propone «Vuoi aggiornare anche il CV?».
+
 ## Ruolo del repository
 Punto di distribuzione pubblico del PDF del curriculum di Fabio Zagaria; non è la sorgente primaria del contenuto.
 
