@@ -1,6 +1,6 @@
 # Fabio Zagaria — Curriculum Vitae
 
-**Junior Java Backend Developer** con visione full stack e focus su Java, Spring Boot, API REST, MySQL, Angular e TypeScript.
+**Junior Java Backend Developer** con visione full stack e focus su Java, Spring Boot, API REST, PostgreSQL, Angular e TypeScript.
 
 ## Curriculum
 
@@ -17,7 +17,14 @@ Flusso di aggiornamento:
 1. aggiornare il payload Career Ops nel repository portfolio;
 2. generare e verificare il PDF A4 a una pagina con Career Ops;
 3. sostituire il PDF sorgente del portfolio e sincronizzare qui lo stesso file;
-4. verificare che portfolio e repository dedicato distribuiscano PDF identici.
+4. verificare che portfolio e repository dedicato distribuiscano PDF identici;
+5. **archiviare qui la versione** con `scripts/archivia-cv.sh AAAA-MM-GG "nota"`, aggiungere la voce al [CHANGELOG](./CHANGELOG.md) e creare il tag `cv-AAAA-MM-GG`.
+
+**Regola fondamentale: ogni aggiornamento del CV va sempre registrato in questo repository.** La data è quella in cui sono cambiati i contenuti; è la stessa mostrata dal portfolio («CV aggiornato il …»).
+
+## Cronologia
+
+Tutte le versioni sono conservate, immutabili, in [`archive/`](./archive) e descritte nel [CHANGELOG](./CHANGELOG.md).
 
 ## Profili professionali
 
