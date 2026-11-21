@@ -2,8 +2,6 @@
 
 **Junior Java Backend Developer** con visione full stack e focus su Java, Spring Boot, API REST, PostgreSQL, Angular e TypeScript.
 
-> **Prossimo passo urgente:** il PDF è del 5 novembre 2026 e va rigenerato con Career Ops (cita ancora MySQL, mancano JobFlow e MedTransit). Procedura in [`docs/CV-DA-RIGENERARE.md`](https://github.com/fabiozagaria/fabio-zagaria-portfolio/blob/master/docs/CV-DA-RIGENERARE.md) del portfolio.
-
 ## Curriculum
 
 [Visualizza o scarica il CV pubblico in PDF](./Fabio_Zagaria_CV.pdf)
@@ -34,6 +32,6 @@ Tutte le versioni sono conservate, immutabili, in [`archive/`](./archive) e desc
 - [GitHub](https://github.com/fabiozagaria)
 - [LinkedIn](https://www.linkedin.com/in/fabiozagaria)
 
-## Aggiornamento del 16 novembre 2026
+## Aggiornamento del 21 novembre 2026
 
-Il CV presenta Expense Tracker e AccessDesk, formazione ed esperienza professionale, competenze backend e dati (inclusi Redis e Docker), frontend, test (JUnit, Mockito, test di integrazione con Spring Boot) e sviluppo assistito da strumenti AI, con Claude Code come strumento principale. Il Master in aula di Programmazione Java & Android (P.C. Academy) è indicato come Nov 2019 - Mag 2020, con attestato di frequenza. I livelli linguistici restano italiano madrelingua e inglese B2 in comprensione, B1 in produzione e interazione.
+Il CV presenta Expense Tracker, JobFlow e AccessDesk (in sviluppo) e MedTransit (in progettazione, nessun codice), solo progetti full stack e backend; formazione ed esperienza professionale; competenze backend e dati (PostgreSQL, Flyway, Redis, Docker), frontend, test (JUnit, Mockito, Testcontainers, test di integrazione con Spring Boot), GitHub Actions e sviluppo assistito da strumenti AI, con Claude Code come strumento principale. Il Master in aula di Programmazione Java & Android (P.C. Academy) è indicato come Nov 2019 - Mag 2020, con attestato di frequenza. I livelli linguistici restano italiano madrelingua e inglese B2 in comprensione, B1 in produzione e interazione. Generato con Career Ops in un ambiente cloud, A4 a una pagina.

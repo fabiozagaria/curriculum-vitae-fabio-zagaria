@@ -11,7 +11,6 @@ Questo repository distribuisce il Curriculum Vitae di Fabio Zagaria in PDF. La s
 - Dopo la verifica locale, sincronizzare qui lo stesso PDF generato e confrontare i checksum.
 - **Regola fondamentale: ogni aggiornamento del CV va sempre registrato in questo repository.** Dopo aver copiato il PDF, eseguire `scripts/archivia-cv.sh AAAA-MM-GG "nota"` (data dei contenuti), aggiungere la voce al `CHANGELOG.md`, committare e creare il tag `cv-AAAA-MM-GG`. I file in `archive/` non si modificano né si cancellano.
 - **Il CV segue il portfolio.** Dopo ogni modifica importante e visibile del portfolio (nuova tecnologia o strumento studiato e dimostrabile, nuovo progetto o cambio di stato, cambiamento importante, correzione di un dato) chiedere a Fabio «Vuoi aggiornare anche il CV?»; se sì, aggiornare il payload nel portfolio, far rigenerare il PDF con Career Ops sul suo PC, registrarlo qui e consegnarlo come file da scaricare. Procedura: `docs/CV-DA-RIGENERARE.md` nel repository portfolio.
-- **Prossimo passo urgente:** rigenerare il CV; il PDF qui è del 5 novembre 2026 e cita ancora MySQL.
 - Mantenere README, PDF e portfolio coerenti, compresa la data «CV aggiornato il …» (`cv.data.ts` nel portfolio).
 - Non inventare competenze, esperienze, date o risultati professionali.
 

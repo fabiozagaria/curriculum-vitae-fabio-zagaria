@@ -9,7 +9,8 @@ Regola fondamentale: **ogni aggiornamento del CV va sempre registrato qui**, con
 
 | Data       | sha256   | File                                                              | Nota                                       |
 | ---------- | -------- | ---- | ---- |
-| 2026-11-05 | 8db4d300 | [CV_2026-11-05_8db4d300.pdf](./archive/CV_2026-11-05_8db4d300.pdf) | Versione corrente (pubblicata il 16/11) |
+| 2026-11-21 | 8915cc58 | [CV_2026-11-21_8915cc58.pdf](./archive/CV_2026-11-21_8915cc58.pdf) | Progetti full stack e backend (Expense Tracker, JobFlow, AccessDesk, MedTransit in progettazione); PostgreSQL. Generato con Career Ops nel cloud |
+| 2026-11-05 | 8db4d300 | [CV_2026-11-05_8db4d300.pdf](./archive/CV_2026-11-05_8db4d300.pdf) | Versione precedente (pubblicata il 16/11) |
 | 2026-10-30 | 1360e5cb | [CV_2026-10-30_1360e5cb.pdf](./archive/CV_2026-10-30_1360e5cb.pdf) | Sincronizzato con il portfolio (QR) |
 | 2026-10-29 | 84bc75d0 | [CV_2026-10-29_84bc75d0.pdf](./archive/CV_2026-10-29_84bc75d0.pdf) | Email di contatto aggiornata a Gmail |
 | 2026-10-25 | e4913ede | [CV_2026-10-25_e4913ede.pdf](./archive/CV_2026-10-25_e4913ede.pdf) | Sincronizzato con il portfolio |
