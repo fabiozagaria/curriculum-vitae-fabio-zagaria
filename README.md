@@ -2,6 +2,8 @@
 
 **Junior Java Backend Developer** con visione full stack e focus su Java, Spring Boot, API REST, PostgreSQL, Angular e TypeScript.
 
+> **Prossimo passo urgente:** il PDF è del 5 novembre 2026 e va rigenerato con Career Ops (cita ancora MySQL, mancano JobFlow e MedTransit). Procedura in [`docs/CV-DA-RIGENERARE.md`](https://github.com/fabiozagaria/fabio-zagaria-portfolio/blob/master/docs/CV-DA-RIGENERARE.md) del portfolio.
+
 ## Curriculum
 
 [Visualizza o scarica il CV pubblico in PDF](./Fabio_Zagaria_CV.pdf)
