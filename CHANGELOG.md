@@ -1,14 +1,15 @@
 # Cronologia del CV
 
-Ogni riga è una versione del PDF `Fabio_Zagaria_CV.pdf`. La data è quella in cui sono cambiati i
+Ogni riga è una versione del CV italiano o inglese. La data è quella in cui sono cambiati i
 **contenuti** del CV (per le versioni precedenti al 21 novembre 2026, la data del commit che le ha
 pubblicate qui; le note riprendono i messaggi di commit). Ogni versione è conservata, immutabile, in [`archive/`](./archive) con nome
-`CV_AAAA-MM-GG_<sha256 breve>.pdf`. Le più recenti stanno in alto.
+`CV_AAAA-MM-GG_<sha256 breve>.pdf` per l’italiano e `CV_EN_AAAA-MM-GG_<sha256 breve>.pdf` per l’inglese. Le più recenti stanno in alto.
 
 Regola fondamentale: **ogni aggiornamento del CV va sempre registrato qui**, con `scripts/archivia-cv.sh`.
 
 | Data       | sha256   | File                                                              | Nota                                       |
 | ---------- | -------- | ---- | ---- |
+| 2026-11-26 | 4a0446d5 | [CV_EN_2026-11-26_4a0446d5.pdf](./archive/CV_EN_2026-11-26_4a0446d5.pdf) | Prima edizione inglese, generata con Career Ops e collegata alla lingua inglese del portfolio. |
 | 2026-11-21 | 8915cc58 | [CV_2026-11-21_8915cc58.pdf](./archive/CV_2026-11-21_8915cc58.pdf) | Progetti full stack e backend (Expense Tracker, JobFlow, AccessDesk, MedTransit in progettazione); PostgreSQL. Generato con Career Ops nel cloud |
 | 2026-11-05 | 8db4d300 | [CV_2026-11-05_8db4d300.pdf](./archive/CV_2026-11-05_8db4d300.pdf) | Versione precedente (pubblicata il 16/11) |
 | 2026-10-30 | 1360e5cb | [CV_2026-10-30_1360e5cb.pdf](./archive/CV_2026-10-30_1360e5cb.pdf) | Sincronizzato con il portfolio (QR) |
