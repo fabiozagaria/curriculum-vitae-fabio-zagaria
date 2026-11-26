@@ -41,3 +41,7 @@ Il CV presenta Expense Tracker, JobFlow e AccessDesk (in sviluppo) e MedTransit 
 ## Edizione inglese del 26 novembre 2026
 
 Prima edizione inglese A4 a una pagina. Riprende esperienza, formazione, progetti, competenze e livelli linguistici dal CV italiano del 21 novembre. [PDF archiviato](./archive/CV_EN_2026-11-26_4a0446d5.pdf)
+
+## Aggiornamento DevOps del 26 novembre 2026
+
+Le edizioni italiana e inglese citano GitHub Actions per la CI e per l’aggiornamento dei commit della pagina Intelligenza Umana. Entrambe sono state rigenerate con Career Ops in formato A4 a una pagina. [Italiano](./archive/CV_2026-11-26_7ad2e54a.pdf) · [Inglese](./archive/CV_EN_2026-11-26_6bd3b383.pdf)

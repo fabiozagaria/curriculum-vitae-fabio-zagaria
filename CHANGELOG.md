@@ -9,6 +9,8 @@ Regola fondamentale: **ogni aggiornamento del CV va sempre registrato qui**, con
 
 | Data       | sha256   | File                                                              | Nota                                       |
 | ---------- | -------- | ---- | ---- |
+| 2026-11-26 | 7ad2e54a | [CV_2026-11-26_7ad2e54a.pdf](./archive/CV_2026-11-26_7ad2e54a.pdf) | CV italiano con GitHub Actions per i commit di Intelligenza Umana. |
+| 2026-11-26 | 6bd3b383 | [CV_EN_2026-11-26_6bd3b383.pdf](./archive/CV_EN_2026-11-26_6bd3b383.pdf) | CV inglese con GitHub Actions per i commit di Intelligenza Umana. |
 | 2026-11-26 | 4a0446d5 | [CV_EN_2026-11-26_4a0446d5.pdf](./archive/CV_EN_2026-11-26_4a0446d5.pdf) | Prima edizione inglese, generata con Career Ops e collegata alla lingua inglese del portfolio. |
 | 2026-11-21 | 8915cc58 | [CV_2026-11-21_8915cc58.pdf](./archive/CV_2026-11-21_8915cc58.pdf) | Progetti full stack e backend (Expense Tracker, JobFlow, AccessDesk, MedTransit in progettazione); PostgreSQL. Generato con Career Ops nel cloud |
 | 2026-11-05 | 8db4d300 | [CV_2026-11-05_8db4d300.pdf](./archive/CV_2026-11-05_8db4d300.pdf) | Versione precedente (pubblicata il 16/11) |
